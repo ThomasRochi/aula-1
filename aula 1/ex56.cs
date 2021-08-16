@@ -19,6 +19,7 @@ namespace aula_1
 
         private void button1_Click(object sender, EventArgs e)
         {
+            //vadad
             double num = Convert.ToDouble(textBox1.Text);
             string tab = "";
 
